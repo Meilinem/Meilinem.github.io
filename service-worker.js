@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.24e135adbc819bf82b5d2ec59f571bb0.js"
+  "/precache-manifest.d5a9613ab1aeec7616bb86220d1e946d.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "meme_token_project"});
